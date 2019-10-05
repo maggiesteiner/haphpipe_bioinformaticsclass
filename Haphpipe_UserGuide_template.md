@@ -3,13 +3,15 @@
 ---
 Directions from Keylie and Maggie to help guide you:
 
-It's mostly just an explanation of what you did + your notes on how to get it to work. Below is an outline to guide you in your note taking and such. Write down every question you have or google - nothing is "stupid." Also, try googling your question first, then reaching out to us or bringing it to haphpipe hours. If google helped you - document the link or sources that helped answer your question. Please read your associated paper, give me a paragraph about their study and a paragraph about their NGS technique.
+It's mostly just an explanation of what you did + your notes on how to get it to work. Below is an outline to guide you in your note taking and such. Write down every question you have or google - nothing is "stupid." Also, try googling your question first, then reaching out to us or bringing it to haphpipe hours. It may be helpful to take screenshots of any error messages, if applicable. If google helped you - document the link or sources that helped answer your question. 
+
+To begin, please read your associated paper, and give us a paragraph about their study and a paragraph about their NGS technique.
 
 Inspiration: https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html
 
 Emails: kmgibson@gwu.edu and steinerm@gwu.edu 
 
-HAPHPIPE Hours: Tuesday and Thursday
+HAPHPIPE Hours: Tuesday and Thursday (Time TBA)
 
 ---
 
@@ -42,7 +44,7 @@ Insert instructions in your own words and code.
 
 ## Activating HAPHPIPE
 
-Insert how you activate HAPHPIPE and use it in your own words and code.
+Insert how you activate HAPHPIPE and use it in your own words and provide your code.
 
 
 ## HAPHPIPE suite
@@ -79,8 +81,17 @@ Your virus with both pipelines. Document all code and explanation.
 List all helpful topics you think or did address here with links / explainations you felt were helpful. Use bullet points.
 
 - introduction to NGS
-	- https://learn.gencore.bio.nyu.edu/variant-calling/
+	- https://learn.gencore.bio.nyu.edu
 - inroduction to bash
+	- (add)
+- helpful tips for command line
+	- https://github.com/gwcbi/HPC/blob/master/commandline.md
+- how to run interactive jobs *(do this to run all haphpipe modules and pipelines!)*
+	- https://github.com/gwcbi/HPC/blob/master/interactive_jobs.md
+- intro to github
+	- https://github.com/gwcbi/HPC/blob/master/github.md
+- markdown tutorial
+	- https://www.markdowntutorial.com
 	
 ## FAQ
 List all questions you had and provide links / explainations you felt were helpful to answer these questions. Use topics and numbering.
