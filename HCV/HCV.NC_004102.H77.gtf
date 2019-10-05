@@ -1,0 +1,4 @@
+HCV.NC_004102.H77	LANL	amplicon	1	341	.	+	2	name "5UTR"; primary_cds "1-341";
+HCV.NC_004102.H77	LANL	amplicon	342	914	.	+	0	name "core"; primary_cds "342-914";
+HCV.NC_004102.H77	LANL	amplicon	915	1490	.	+	1	name "E1"; primary_cds "915-1490";
+HCV.NC_004102.H77	LANL	amplicon	1491	2579	.	+	1	name "E2"; primary_cds "1491-2579";
